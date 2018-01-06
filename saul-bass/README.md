@@ -21,4 +21,4 @@ IXD102 DESIGNER ESSAY
 Saul Bass
 ------------------
 
-- [Saul Bass Essay](https://github.com/halmcgonigle/saul-bass/blob/gh-pages/saul_bass.html)
+- [Saul Bass Essay](https://halmcgonigle.github.io/johnbaskerville/saul_bass.html)
