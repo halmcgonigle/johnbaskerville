@@ -14,3 +14,13 @@ History of Type
 ---------------
 
 - [A Brief History Of Type](https://halmcgonigle.github.io/johnbaskerville/a_brief_history_of_type.html)
+
+IXD102 DESIGNER ESSAY
+=======================
+
+Saul Bass
+------------------
+- [Saul Bass Essay - Markdown version](https://github.com/halmcgonigle/saul-bass/blob/gh-pages/saul_bass.md)
+- [Saul Bass Essay - HTML version](https://github.com/halmcgonigle/saul-bass/blob/gh-pages/saulbass.html)
+- [Saul Bass Essay - CSS version](https://github.com/halmcgonigle/saul-bass/blob/gh-pages/style.css)
+- [Saul Bass Essay - Complete version](https://github.com/halmcgonigle/saul-bass/blob/gh-pages/saul_bass.html)
