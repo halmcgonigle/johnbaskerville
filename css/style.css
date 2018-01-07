@@ -1,0 +1,158 @@
+/* ----- CSS RESET ----- */
+
+* {
+    padding: 0;
+    margin: 0;
+    font-size:100%;
+    line-height: 1em;    
+}
+
+body { width: 75%;
+    max-width: 600px;
+    font-family: Georgia,'Times New Roman' serif;
+    margin: auto;
+    background: #f0f0f0;
+    color: #333;
+    line-height: 1.8em;}
+
+header {margin:6em 3em 3em 0}
+
+header h2 {
+    font-style: italic;
+    font-size: 1.8em;
+    color: #333;
+}
+
+/* ----- TYPOGRAPHY ----- */
+
+h1, h2, h3 {
+    font-weight: normal;
+    color: #c06;
+    text-align: center;}
+
+p, li, blockquote {
+    margin-bottom: 3em;
+    line-height: 1.5;}
+
+h1 {
+    font-size: 4em;
+    margin-top: 1em;
+    margin-bottom: .1em; }
+
+h2 {font-size: 2.25em;
+    margin-bottom: 1em;}
+
+/* ----- LINKS ----- */
+
+a {
+    color: #c06;
+    text-decoration: none;} 
+
+nav a:visited {
+    color: #000;
+}
+
+a:hover {
+    color: #006341;
+    border-bottom: 1px dotted;}
+
+/* ----- NAVIGATION ----- */
+
+nav {
+    position: fixed;
+    top: 0;
+    left: 0;
+    margin: 0;
+    width: 100%;
+    background-color: #333;
+    padding: 1em 0; }
+    
+nav ul {
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 2px; }
+
+nav a:link {
+        color: #fff;
+        }
+
+nav ul li {
+    display: inline;
+    margin: 20px; }
+
+nav a:hover {
+    
+}
+
+
+/*----- BLOCKQUOTE ----- */
+
+blockquote {
+    padding: 1em 0 4em 0;
+    font-size: 1.75em;
+    line-height: 1.4em;
+    color: #777;
+}
+
+blockquote cite {
+    font-size: 0.75em
+}
+
+
+/* ----- IMAGES ----- */
+
+img {
+    display: block;
+    margin: 4em auto;
+    padding: 0;
+    max-width: 100%;
+}
+/* ----- FOOTER ----- */
+
+footer {
+    text-align: center;
+    font-size: .75em;
+    line-height: 1.5em;
+    padding-bottom: 2em;
+}
+
+footer hr {margin: 3em 0 
+        }
+
+/* ----- TABLE ----- */
+
+table {
+    margin: auto;
+    display: table;
+    border-collapse: collapse;
+    border-spacing: 2px;
+    margin-bottom: 2em;    
+}
+
+/* ----- CAPTION -----*/
+
+caption {
+    margin-bottom: 1.5em;
+    text-transform: uppercase;    
+}
+
+/* ----- TABLE HEAD -----*/
+
+th {
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: normal;
+    text-align: left;
+    background: #c06;
+}
+
+th, td {
+    padding: .6em;
+}
+        
+table, td {
+    background: #BFBEBB;
+    border: 1px solid #fff;    
+}        
+    
+    
