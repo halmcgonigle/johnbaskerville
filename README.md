@@ -16,11 +16,3 @@ History of Type
 ---------------
 
 - [A Brief History Of Type](https://halmcgonigle.github.io/johnbaskerville/a_brief_history_of_type.html)
-
-IXD102 DESIGNER ESSAY
-=======================
-
-Saul Bass
-------------------
-
-- [Saul Bass Essay](https://halmcgonigle.github.io/johnbaskerville/saul_bass.html)
