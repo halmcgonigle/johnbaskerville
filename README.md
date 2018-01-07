@@ -16,3 +16,5 @@ History of Type
 ---------------
 
 - [A Brief History Of Type](https://halmcgonigle.github.io/johnbaskerville/a_brief_history_of_type.html)
+- [History List](https://halmcgonigle.github.io/johnbaskerville/type_history_list.html)
+- [History Of Type with CSS](https://halmcgonigle.github.io/johnbaskerville/a_brief_history_of_type_css.html)
