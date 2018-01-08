@@ -4,11 +4,11 @@ IXD101 Interaction Design Fundamentals
 John Baskerville
 ----------------
 
-- [Baskerville 1](https://halmcgonigle.github.io/johnbaskerville/john_baskerville.html)
-- [Baskerville 2](https://halmcgonigle.github.io/johnbaskerville/baskerville2.html)
-- [Baskerville 3](https://halmcgonigle.github.io/johnbaskerville/baskerville3.html)
-- [Baskerville 4](https://halmcgonigle.github.io/johnbaskerville/baskerville4.html)
-- [Baskerville 5](https://halmcgonigle.github.io/johnbaskerville/baskerville5.html)
+- [Baskerville 1 - Basic HTML](https://halmcgonigle.github.io/johnbaskerville/john_baskerville.html)
+- [Baskerville 2 - Adding lists](https://halmcgonigle.github.io/johnbaskerville/baskerville2.html)
+- [Baskerville 3 - Adding links](https://halmcgonigle.github.io/johnbaskerville/baskerville3.html)
+- [Baskerville 4 - Adding tables](https://halmcgonigle.github.io/johnbaskerville/baskerville4.html)
+- [Baskerville 5 - Adding images](https://halmcgonigle.github.io/johnbaskerville/baskerville5.html)
 - [Baskerville 6 - Introduction to CSS](https://halmcgonigle.github.io/johnbaskerville/baskerville6.html)
 
 
